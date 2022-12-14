@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">crud</string>
+
+    <string-array name="courses">
+        <item name="item1">item 1</item>
+        <item name="item2">item 2</item>
+        <item name="item3">item </item>
+    </string-array>
+</resources>
